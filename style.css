@@ -1,0 +1,13 @@
+.modifier {
+  color: #00ffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  font-size: 1.1rem;
+  font-style: oblique;
+  font-weight: bold;
+
+  letter-spacing: 2px;
+  line-height: 2.5;
+  text-align: center;
+  text-transform: lowercase;
+}
