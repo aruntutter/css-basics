@@ -1,0 +1,16 @@
+.title {
+  background-color: bisque;
+  color: rgb(10, 64, 64);
+}
+
+p {
+  color: rgb(216, 112, 147);
+}
+
+.list-item {
+  color: #a1b3c4;
+}
+
+#fruit {
+  color: hsl(359, 92%, 50%);
+}
